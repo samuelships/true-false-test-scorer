@@ -17,7 +17,7 @@ $ cd true-false-test-scorer
 
 3. Install `dependencies`
 ```bash
-$ git clone https://github.com/besemuna/true-false-test-scorer/
+$ npm i
 ```
 
 3. Run app :sparkles:
