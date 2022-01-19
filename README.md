@@ -20,7 +20,7 @@ $ cd true-false-test-scorer
 $ npm i
 ```
 
-3. Run app :sparkles:
+4. Run app :sparkles:
 ```bash
 $ node index.js
 ```
